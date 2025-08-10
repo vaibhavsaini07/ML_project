@@ -44,14 +44,6 @@ Build a **reliable machine learning classifier** to predict eligibility for:
 
 ---
 
-## 📸 Results
-### 🔷 AutoAI Pipeline Leaderboard
-
-
-### ✅ Best Model Output Example
-
----
-
 ## 🔭 Future Scope
 - Add more NSAP schemes and eligibility rules  
 - Hybrid **Rule-based + ML classification** system  
